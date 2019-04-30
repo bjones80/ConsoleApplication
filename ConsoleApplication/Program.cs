@@ -16,7 +16,7 @@ namespace ConsoleApplication
 
             /* 3. output  two writeLine */
             Console.WriteLine($"Your name is: { fullName }");
-            Console.WriteLine($"Your location is: { location }");
+            Console.WriteLine($"Your location at is: { location }");
 
             /* 4. Output current date not time */
             var date = DateTime.Now;
